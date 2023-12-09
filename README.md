@@ -54,3 +54,6 @@ Para que a gestão do negócio seja possível, sabe-se, que devem ser armazenada
       · CPF do cliente
       
       · Mês e ano de início da vigência
+
+
+Assim é apresentado um software que gerencia as assinaturas dos diversos aplicativos de uma empresa;
